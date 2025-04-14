@@ -22,8 +22,8 @@ This tool analyzes failed GitHub Actions workflows, extracts error logs, sends t
 ## **📥 Installation Steps**
 ### **1️⃣ Clone Repository**
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
+git clone (https://github.com/shakilmunavary/ai-powered-buildFailure-management.git)
+cd ai-powered-buildFailure-management
 ```
 
 ### **2️⃣ Install Dependencies**
@@ -67,19 +67,13 @@ npx nodemon app.js
 ```
 User Interface (index.ejs) → Backend (app.js) → GitHub Actions API → Mistral AI → Auto-Fix Pipelines
 ```
-You can generate a **visual diagram** using **Eraser.ai** following this layout.
+![image](https://github.com/user-attachments/assets/7c5b8f99-25bc-411f-ae90-96dc5a065723)
+
 
 ---
+
 
 ## **👨‍💻 Contributing**
 Feel free to open issues, submit PRs, or suggest improvements!
 
----
 
-## **📜 License**
-MIT License (or any license of your choice)
-
----
-
-This **README** is **structured, professional, and easy to follow**. 🚀 Let me know if you want any tweaks! 🔥  
-Want help formatting this better for GitHub markdown? 😃
