@@ -12,6 +12,7 @@
 - 🔄 **Automatically updates workflows** with AI-generated fixes.
 - 🔧 **Provides a dashboard** to monitor failures and AI suggestions.
 - ⚡ **Allows environment variable updates** dynamically—no restart needed!
+- Note it fixes only Github actions pipeline code automatically, It wont fix any issues in the application code at the moment. For Application code it would provide recomendations thought.
 
 ---
 
