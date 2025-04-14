@@ -69,6 +69,9 @@ User Interface (index.ejs) → Backend (app.js) → GitHub Actions API → Mistr
 ```
 ![image](https://github.com/user-attachments/assets/7c5b8f99-25bc-411f-ae90-96dc5a065723)
 
+## **🛠 UI Dashboard**
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/2482537a-6e60-4238-a28f-43f195d711d6" />
+
 
 ---
 
