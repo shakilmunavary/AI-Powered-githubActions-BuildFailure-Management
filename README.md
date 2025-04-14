@@ -1,9 +1,5 @@
 
 
----
-
-## **README.md**
-
 🚀 Automate CI/CD pipeline fixes using AI! This tool analyzes failed GitHub Actions workflows, extracts error logs, sends them to Mistral AI, and automatically applies fixes to your repository—saving valuable developer time and effort.
 
 💡 Key Benefits: ✔ Boost Efficiency – Reduce manual debugging and let AI instantly detect and resolve pipeline failures. ✔ Minimize Downtime – Accelerate deployments by preventing bottlenecks in your CI/CD workflows. ✔ Improve Code Reliability – Get precise AI-driven fixes that enhance overall code quality. ✔ Seamless Integration – Works directly with GitHub Actions, ensuring a smooth DevOps experience. ✔ Adaptive Learning – AI continuously improves, offering smarter solutions over time.
@@ -22,8 +18,8 @@
 ## **📥 Installation Steps**
 ### **1️⃣ Clone Repository**
 ```bash
-git clone (https://github.com/shakilmunavary/ai-powered-buildFailure-management.git)
-cd ai-powered-buildFailure-management
+git clone (https://github.com/shakilmunavary/ai-powered-githubActions-management.git)
+cd ai-powered-githubActions-management
 ```
 
 ### **2️⃣ Install Dependencies**
@@ -42,9 +38,11 @@ Create `.env.mistral.ai` for Mistral API:
 ```bash
 MISTRAL_API_KEY=your_mistral_api_key
 ```
+download 
 
 ### **4️⃣ Start the Application**
 ```bash
+cd nodejsApplication
 node app.js
 ```
 Or use **nodemon**:
