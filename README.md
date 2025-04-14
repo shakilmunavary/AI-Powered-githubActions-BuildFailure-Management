@@ -19,8 +19,8 @@
 ## **📥 Installation Steps**
 ### **1️⃣ Clone Repository**
 ```bash
-git clone (https://github.com/shakilmunavary/ai-powered-githubActions-management.git)
-cd ai-powered-githubActions-management
+git clone (https://github.com/shakilmunavary/AI-Powered-githubActions-BuildFailure-Management.git)
+cd AI-Powered-githubActions-BuildFailure-Management
 ```
 
 ### **2️⃣ Install Dependencies**
