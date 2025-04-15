@@ -1,5 +1,5 @@
 
-**🔹 Introduction**
+## **🔹 Introduction **
 🚀 Automate CI/CD pipeline fixes using AI! This tool analyzes failed GitHub Actions workflows, extracts error logs, sends them to Mistral AI, and automatically applies fixes to your repository—saving valuable developer time and effort.
 
 💡 Key Benefits: ✔ Boost Efficiency – Reduce manual debugging and let AI instantly detect and resolve pipeline failures. ✔ Minimize Downtime – Accelerate deployments by preventing bottlenecks in your CI/CD workflows. ✔ Improve Code Reliability – Get precise AI-driven fixes that enhance overall code quality. ✔ Seamless Integration – Works directly with GitHub Actions, ensuring a smooth DevOps experience. ✔ Adaptive Learning – AI continuously improves, offering smarter solutions over time.
