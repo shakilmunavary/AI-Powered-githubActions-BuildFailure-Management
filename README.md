@@ -66,7 +66,8 @@ npx nodemon app.js
 ```
 User Interface (index.ejs) → Backend (app.js) → GitHub Actions API → Mistral AI → Auto-Fix Pipelines
 ```
-![image](https://github.com/user-attachments/assets/7c5b8f99-25bc-411f-ae90-96dc5a065723)
+![image](https://github.com/user-attachments/assets/df498d54-994c-4e30-92cb-6267aeb4b976)
+
 
 ## **🛠 UI Dashboard**
 <img width="944" alt="image" src="https://github.com/user-attachments/assets/2482537a-6e60-4238-a28f-43f195d711d6" />
