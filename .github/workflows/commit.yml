@@ -8,4 +8,4 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2asas
+      uses: actions/checkout@v4
